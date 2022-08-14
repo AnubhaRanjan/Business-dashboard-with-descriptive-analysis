@@ -12,7 +12,7 @@ To build a dashboard that represents KPIs from region to state with respective t
     - Connect to saved excel file from your local machine.
  - Establish relationship between all three tables(**Orders,People,Returns**) on tableau.
 
-## Sheet 1 - Region map
+#### Sheet 1 - Region map
 
  - Create a geographical map from Region
     - Create calculated fields to find current,previous year sales and profit.
@@ -24,12 +24,12 @@ To build a dashboard that represents KPIs from region to state with respective t
     - Create a calculated field with the region selected set.
     - Select worksheet-> Actions and select set value to perform action.
 
-## Sheet 2 - State map
+#### Sheet 2 - State map
 
  - Duplicate Region map.
  - Drag region selected set to filter pane.
 
-## Sheet 3 - Current year sales KPI
+#### Sheet 3 - Current year sales KPI
 
  - Drag current year sales and previous year sales measures on column shelf.
  - For current year sales change mark type to "Bar" and for previous year sales change mark type to "Gantt bar".
@@ -37,26 +37,26 @@ To build a dashboard that represents KPIs from region to state with respective t
  - Adjust tooltip deatils.
  - Incorporate information details on chart heading like current year sale, amount and growrth indicator.
 
-## Sheet 4 - Current year profit KPI
+#### Sheet 4 - Current year profit KPI
 
  - Follow the same steps as Sales KPI with profit details.
 
-## Sheet 5 - Current year avg shipping days KPI
+#### Sheet 5 - Current year avg shipping days KPI
 
  - Create a calculated field avg shipping days.
  - Create a calculated field for current year avg shipping days and previous year avg shipping days.
  - Follow the same steps as current year sales KPI.
 
-## Sheet 6 - Sales trend lines
+#### Sheet 6 - Sales trend lines
 
  - Create a line chart for sales against current year monthwise.
  - Adjust tooltip for information display.
 
-## Sheet 7 - Profit trend lines
+#### Sheet 7 - Profit trend lines
 
  - Follow same steps as sales trend lines with profit details.
 
-## Sheet 8 - Avg shipping trend lines
+#### Sheet 8 - Avg shipping trend lines
 
  - Follow same steps as sales trend lines with avg. shipping details.
 
