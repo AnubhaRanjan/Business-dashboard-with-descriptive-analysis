@@ -71,7 +71,7 @@ To build a dashboard that represents KPIs from region to state with respective t
  
  
  ### Link for dashboard:
- [Business dashboard with descriptive analysis](https://public.tableau.com/app/profile/anubha.ranjan/viz/BusinessKPIDashboardthroughdescriptiveanalysis/Dashboard1?publish=yes).
+ [Business dashboard with descriptive analysis](https://public.tableau.com/app/profile/anubha.ranjan/viz/BusinessKPIDashboard_16660110848390/Dashboard1?publish=yes).
 
 
 
